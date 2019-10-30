@@ -101,12 +101,6 @@
 	      <url>http://3.15.2.74:8081/repository/SAMPLE-REL/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.15.2.74:8081/repository/SAMPLE-SNAP/</url>
-	    </snapshotRepository>
-	    
 	</distributionManagement>
 	
 	<build>
