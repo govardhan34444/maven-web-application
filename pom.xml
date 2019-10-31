@@ -96,8 +96,7 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+		    <id>nexus</id>
 	      <url>http://https://3.133.116.201:8081/repository/SAMPLE-REL/</url>
 	    </repository>
 	    
